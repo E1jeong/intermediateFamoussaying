@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "399667533990",
+    "project_id": "intermediate-famous-saying",
+    "storage_bucket": "intermediate-famous-saying.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399667533990:android:df2f1313fabf1c6ffdbc67",
+        "android_client_info": {
+          "package_name": "com.fastcampus.intermediatefamoussaying"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399667533990-iukk339q2jgluf0cad5kk2uq3gmgppgf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1IPLO0iutPvFrO_5EK7k2Rq8CLNTIW3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399667533990-iukk339q2jgluf0cad5kk2uq3gmgppgf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
